@@ -1,5 +1,7 @@
 Progetto per Ingegneria software, di un e-commerce di strumenti musicali.
+
 #AndiamodAccordo
+
 Sito di acquisti online di strumenti e accessori musicali, categorizzati in:
 -strumenti ad arco
 -struemnti a fiato
