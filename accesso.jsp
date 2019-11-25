@@ -45,7 +45,7 @@
 			<tr>
 
 				<td>Password</td>
-				<td><input type="password" name="pass" id="pasw" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[!�@#$%]).{8,20}" title="la password deve contenere un numero, un carattere minuscolo, uno maiuscolo e un carattere speciale tra @#$% e deve avere lunghezza min 8 e max 20" required="required" placeholder="password"/></td>
+				<td><input type="password" name="pass" id="pasw" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[!@#$%]).{8,20}" title="la password deve contenere un numero, un carattere minuscolo, uno maiuscolo e un carattere speciale tra @#$% e deve avere lunghezza min 8 e max 20" required="required" placeholder="password"/></td>
 			</tr>
 			<tr>
 				<td>Nome</td>
@@ -61,7 +61,7 @@
 			</tr>
 			<tr>
 				<td>Indirizzo</td>
-				<td><input type="text" name="indirizzo" id="ind" title="Il formato dell'indirizzo �: via-NumeroCivico-Citt�-CAP" pattern="(Via|VIA|Viale|Piazza|Strada|via|viale|piazza|strada|contrada|frazione)[\s]+[A-Za-z]+[\s]+[0-9]+[\s]+[A-Za-z]+[\s]+[0-9]+" maxlength="50" required="required" placeholder="Via Roma 4 Battipaglia"/></td>
+				<td><input type="text" name="indirizzo" id="ind" title="Il formato dell'indirizzo è: via-NumeroCivico-Città-CAP" pattern="(Via|VIA|Viale|Piazza|Strada|via|viale|piazza|strada|contrada|frazione)[\s]+[A-Za-z]+[\s]+[0-9]+[\s]+[A-Za-z]+[\s]+[0-9]+" maxlength="50" required="required" placeholder="Via Roma 4 Battipaglia"/></td>
 			</tr>
 			<tr>
 				<td><input type="submit" id="Registra" value="registra"/></td>
