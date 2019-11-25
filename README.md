@@ -16,3 +16,4 @@ Ogni prodotto ha lo stato di disponibilità. I prodotti non disponibili possono 
 Un utente può aggiungere diversi prodotti in un carrello, per poi fare il checkout.
 Ogni utente ha una propria area personale per cambiare i propri dati di fatturazione.
 
+LEGGERE LA WIKI PER MAGGIORI INFORMAZIONI
